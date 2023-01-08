@@ -1,0 +1,28 @@
+{
+  "name": "Nasreddine Boukhelkhal",
+  "avatar": "https://pbs.twimg.com/profile_images/1576327759395184648/4jrxsdMM_400x400.jpg",
+  "links": [
+    {
+      "title": "My personal site",
+      "url": "https://nasro-portfolio.vercel.app/",
+      "image": "https://pbs.twimg.com/profile_images/1576327759395184648/4jrxsdMM_400x400.jpg"
+    }
+  ],
+  "socials": [
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nasreddine-boukhelkhal-9584a31a5/",
+      "image": "https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png"
+    },
+    {
+      "title": "Github",
+      "url": "https://github.com/nasro-dev",
+      "image": "https://marcas-logos.net/wp-content/uploads/2020/03/GITHUB-LOGO-1024x576.png"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/nasro_dev",
+      "image": "https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png"
+    }
+  ]
+}
